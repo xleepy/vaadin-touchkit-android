@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
     // Localhost
     //private val webViewUrl = "https://25fab319.ngrok.io"
 
-    private val webViewUrl = "https://infinite-bayou-49117.herokuapp.com"
+    private val webViewUrl = "https://vaadin-test-github.herokuapp.com/"
     private var mUploadMessage: ValueCallback<Uri>? = null
     private var uploadMessage: ValueCallback<Array<Uri>>? = null
     private val REQUEST_SELECT_FILE = 100
